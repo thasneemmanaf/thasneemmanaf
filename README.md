@@ -2,7 +2,7 @@
 
 💡 &nbsp;I'm a fullstack developer working with MERN Stack.\
 😍 &nbsp;I'm passionate about web development and love to learn new things.\
-🎓 &nbsp;I have masters degree in Electronics Engineering and have good understanding of banking and finance industry.\
+🎓 &nbsp;I have masters degree in Electronics Engineering and have good understanding of banking and finance industry.
 
 
 Technologies I've been learning and using so far :
