@@ -19,6 +19,7 @@ Technologies I've been learning and using so far :
 ![Express.JS](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=Express.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=google-cloud)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 
 - IDE & Tools : <br />
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
