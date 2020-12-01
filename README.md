@@ -4,6 +4,7 @@
 😍 &nbsp;I'm passionate about web development and love to learn new things.\
 🎓 &nbsp;I have masters degree in Electronics Engineering and have good understanding of banking and finance industry.
 
+<img alt="Night Coding" src="https://github.com/thasneemmanaf/thasneemmanaf/issues/1#issue-754681807" align="right"/>
 
 Technologies I've been learning and using so far :
 
