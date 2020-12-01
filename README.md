@@ -44,7 +44,7 @@ Technologies I've been learning and using so far :
 
 
 - Projects : <br />
-[![ImageCarousal](https://img.shields.io/badge/-ImageCarousal)](https://github.com/thasneemmanaf/Image-carousal-reactjs)
+[![ImageCarousal](https://img.shields.io/badge/-ImageCarousal-333333?style=flat&logo=unsplash)](https://github.com/thasneemmanaf/Image-carousal-reactjs)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
