@@ -60,6 +60,7 @@ Technologies I've been learning and using so far :
 
 <p align="center">
 <a href="https://linkedin.com/in/thasneemmanaf"><img src="https://img.shields.io/badge/-ThasneemManaf-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ManafThasneem"><img src="https://img.shields.io/badge/-ThasneemManaf-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:thasneemmanaf@gmail.com"><img src="https://img.shields.io/badge/-thasneemmanaf@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
