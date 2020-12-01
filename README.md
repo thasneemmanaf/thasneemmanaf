@@ -11,22 +11,25 @@ Technologies I've been learning and using so far :
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux);
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-333333?style=flat&logo=material-UI);
-![styled-components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components);
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-333333?style=flat&logo=material-UI)&nbsp;
+![styled-components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)&nbsp;
 
 
 - Backend : <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Express.JS](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=Express.JS)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=google-cloud)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![Express.JS](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=Express.JS)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=google-cloud)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)&nbsp;
 
 - IDE & Tools : <br />
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)&nbsp;
 
 - Testing : <br />
 ![Test](https://img.shields.io/badge/-ReactTestingLibrary-333333?style=flat)&nbsp;
