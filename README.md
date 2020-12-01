@@ -27,15 +27,15 @@ Technologies I've been learning and using so far :
 
 <p align="center">
 <a href="https://github.com/thasneemmanaf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thasneemmanaf&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thasneemmanaf&layout=compact&langs_count=8&theme=react"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thasneemmanaf&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thasneemmanaf&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/thasneemmanaf"><img src="https://img.shields.io/badge/-Thasneem%20Manaf%-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/thasneemmanaf"><img src="https://img.shields.io/badge/-ThasneemManaf-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:thasneemmanaf@gmail.com"><img src="https://img.shields.io/badge/-thasneemmanaf@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
