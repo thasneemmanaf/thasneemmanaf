@@ -11,8 +11,10 @@ Technologies I've been learning and using so far :
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-333333?style=flat&logo=material-UI)
-![styled-components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux);
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-333333?style=flat&logo=material-UI);
+![styled-components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components);
+
 
 - Backend : <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
@@ -27,7 +29,17 @@ Technologies I've been learning and using so far :
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 - Testing : <br />
-![Test](https://img.shields.io/badge/-Testing-333333?style=flat)&nbsp;
+![Test](https://img.shields.io/badge/-ReactTestingLibrary-333333?style=flat)&nbsp;
+![Test](https://img.shields.io/badge/-SuperTest-333333?style=flat)&nbsp;
+![Test](https://img.shields.io/badge/-Chai-333333?style=flat)&nbsp;
+![Test](https://img.shields.io/badge/-Mocha-333333?style=flat)&nbsp;
+
+- Others: <br />
+![Cloudinary](https://img.shields.io/badge/-CDN:Cloudinary-333333?style=flat)&nbsp;
+![Contentful](https://img.shields.io/badge/-CDN:Contentful-333333?style=flat)&nbsp;
+![GoogleCloudStorage](https://img.shields.io/badge/-CDN:GoogleCloudStorage-333333?style=flat)&nbsp;
+
+
 - Projects : <br />
 
 ### ⚙️ &nbsp;GitHub Analytics
