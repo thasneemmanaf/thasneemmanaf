@@ -18,7 +18,7 @@ Technologies I've been learning and using so far :
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Express.JS](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=Express.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Google Cloud Platform](https://img.shields.io/badge/-Google%Cloud%Platform-333333?style=flat&logo=googlecloud)
+![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=googlecloud)
 
 - IDE & Tools : <br />
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
