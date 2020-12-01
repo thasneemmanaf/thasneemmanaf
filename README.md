@@ -1,10 +1,8 @@
 ### Hi there 👋 , I'm Thasneem
 
-### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I'm a fullstack developer working with MERN Stack.\
 🎓 &nbsp;I have a masters degree in Electronics Engineering.\
-😍 &nbsp;I'm passionate about technologies and love to learn new things.\
+😍 &nbsp;I'm passionate about technologies and love to learn new things.
 
 Technologies I've been learning and using so far :
 
