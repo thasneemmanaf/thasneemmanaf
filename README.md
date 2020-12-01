@@ -38,6 +38,7 @@ Technologies I've been learning and using so far :
 ![Test](https://img.shields.io/badge/-Mocha-333333?style=flat)&nbsp;
 
 - Others: <br />
+![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)&nbsp;
 ![Cloudinary](https://img.shields.io/badge/-CDN:Cloudinary-333333?style=flat)&nbsp;
 ![Contentful](https://img.shields.io/badge/-CDN:Contentful-333333?style=flat)&nbsp;
 ![GoogleCloudStorage](https://img.shields.io/badge/-CDN:GoogleCloudStorage-333333?style=flat)&nbsp;
