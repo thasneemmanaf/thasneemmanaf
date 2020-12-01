@@ -26,6 +26,8 @@ Technologies I've been learning and using so far :
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+- Testing : <br />
+![Test](https://img.shields.io/badge/-Testing-333333?style=flat)&nbsp;
 - Projects : <br />
 
 ### ⚙️ &nbsp;GitHub Analytics
