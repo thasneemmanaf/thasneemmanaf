@@ -12,7 +12,7 @@ Technologies I've been learning and using so far :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-333333?style=flat&logo=material-UI)
-![styled-components](https://img.shields.io/badge/-MatrialUI-333333?style=flat&logo=styled-components)
+![styled-components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components)
 
 - Backend : <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
