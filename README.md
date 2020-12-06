@@ -45,6 +45,7 @@ Technologies I've been learning and using so far :
 
 
 - Projects : <br />
+[![TheREDCinemas](https://img.shields.io/badge/-The%20RED%20Cinemas-333333?style=flat&logo=react)](https://github.com/thasneemmanaf/the-red-cinemas-mern-project)
 [![ImageCarousal](https://img.shields.io/badge/-ImageCarousal-333333?style=flat&logo=unsplash)](https://github.com/thasneemmanaf/Image-carousal-reactjs)
 
 ### ⚙️ &nbsp;GitHub Analytics
