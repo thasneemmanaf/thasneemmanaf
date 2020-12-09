@@ -45,13 +45,16 @@ Technologies I've been learning and using so far :
 
 
 - Projects : <br />
-[![TheREDCinemas](https://img.shields.io/badge/-The%20RED%20Cinemas-333333?style=flat&logo=react)](https://theredcinemas.herokuapp.com/)
+[![TheREDCinemas](https://img.shields.io/badge/-Movie%20Booking%20App%20MERN%20Stack-333333?style=flat&logo=react)](https://theredcinemas.herokuapp.com/)
 [![cakey](https://img.shields.io/badge/-Online%20Cake%20Marketplace-333333?style=flat&logo=styled-components)](https://cakey.netlify.app/)
-[![COVID](https://img.shields.io/badge/-COVID%20Tracker-333333?style=flat&logo=react)](https://tracking-app-covid-19.netlify.app/)
-[![ImageCarousal](https://img.shields.io/badge/-ImageCarousal-333333?style=flat&logo=unsplash)](https://image-carousal-react.netlify.app/)
-[![Restaurant](https://img.shields.io/badge/-Restaurant%20Manager-333333?style=flat&logo=node.js)](https://restaurantmanager-app.herokuapp.com/)
+[![COVID](https://img.shields.io/badge/-COVID%20Tracker%20React-333333?style=flat&logo=react)](https://tracking-app-covid-19.netlify.app/)
+[![ImageCarousal](https://img.shields.io/badge/-ImageCarousal%20Unsplash%20API-333333?style=flat&logo=unsplash)](https://image-carousal-react.netlify.app/)
+[![Restaurant](https://img.shields.io/badge/-Restaurant%20Manager%20MERN%20Stack%20Project-333333?style=flat&logo=node.js)](https://restaurantmanager-app.herokuapp.com/)
 [![BackRoadTour](https://img.shields.io/badge/-Back%20Road%20Tour-333333?style=flat&logo=CSS3)](https://backroads-tourcompany-project.netlify.app/)
 [![Furniture](https://img.shields.io/badge/-Online%20Furniture%20Shop-333333?style=flat&logo=javascript)](https://online-furniture-shopping.netlify.app/)
+[![CarShowroom](https://img.shields.io/badge/-Car%20Dealership%20Website-333333?style=flat&logo=javascript)](https://car-dealership-project-js.netlify.app/)
+[![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud%20Storage%20Setup-333333?style=flat&logo=googlecloud)](https://github.com/thasneemmanaf/google-cloud-storage-mern-boilerplate)
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary%20CDN%20Setup-333333?style=flat&logo=cloud)](https://github.com/thasneemmanaf/Cloudinary-ReactJS)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
