@@ -45,9 +45,9 @@ Technologies I've been learning and using so far :
 
 
 - Projects : <br />
-[![TheREDCinemas](https://img.shields.io/badge/-The%20RED%20Cinemas-333333?style=flat&logo=react)](https://github.com/thasneemmanaf/the-red-cinemas-mern-project)
-[![cakey](https://img.shields.io/badge/-Online%20Cake%20Marketplace-333333?style=flat&logo=styled-components)](https://github.com/thasneemmanaf/cake-online-marketplace-reactjs)
-[![ImageCarousal](https://img.shields.io/badge/-ImageCarousal-333333?style=flat&logo=unsplash)](https://github.com/thasneemmanaf/Image-carousal-reactjs)
+[![TheREDCinemas](https://img.shields.io/badge/-The%20RED%20Cinemas-333333?style=flat&logo=react)](https://theredcinemas.herokuapp.com/)
+[![cakey](https://img.shields.io/badge/-Online%20Cake%20Marketplace-333333?style=flat&logo=styled-components)](https://cakey.netlify.app/)
+[![ImageCarousal](https://img.shields.io/badge/-ImageCarousal-333333?style=flat&logo=unsplash)](https://image-carousal-react.netlify.app/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
