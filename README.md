@@ -47,9 +47,10 @@ Technologies I've been learning and using so far :
 - Projects : <br />
 [![TheREDCinemas](https://img.shields.io/badge/-The%20RED%20Cinemas-333333?style=flat&logo=react)](https://theredcinemas.herokuapp.com/)
 [![cakey](https://img.shields.io/badge/-Online%20Cake%20Marketplace-333333?style=flat&logo=styled-components)](https://cakey.netlify.app/)
-[![COVID](https://img.shields.io/badge/-COVID-19%20Tracker-333333?style=flat&logo=react)](https://tracking-app-covid-19.netlify.app/)
+[![COVID](https://img.shields.io/badge/-COVID%20Tracker-333333?style=flat&logo=react)](https://tracking-app-covid-19.netlify.app/)
 [![ImageCarousal](https://img.shields.io/badge/-ImageCarousal-333333?style=flat&logo=unsplash)](https://image-carousal-react.netlify.app/)
 [![Restaurant](https://img.shields.io/badge/-Restaurant%20Manager-333333?style=flat&logo=node.js)](https://restaurantmanager-app.herokuapp.com/)
+[![BackRoadTour](https://img.shields.io/badge/-Back%20Road%20Tour-333333?style=flat&logo=CSS3)](https://backroads-tourcompany-project.netlify.app/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
