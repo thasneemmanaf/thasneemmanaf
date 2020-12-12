@@ -53,7 +53,7 @@ Technologies I've been learning and using so far :
 [![BackRoadTour](https://img.shields.io/badge/-Back%20Road%20Tour-333333?style=flat&logo=CSS3)](https://backroads-tourcompany-project.netlify.app/)
 [![Furniture](https://img.shields.io/badge/-Online%20Furniture%20Shop-333333?style=flat&logo=javascript)](https://online-furniture-shopping.netlify.app/)
 [![CarShowroom](https://img.shields.io/badge/-Car%20Dealership%20Website-333333?style=flat&logo=javascript)](https://car-dealership-project-js.netlify.app/)
-[![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud%20Storage%20Setup-333333?style=flat&logo=google-cloud)](https://github.com/thasneemmanaf/google-cloud-storage-mern-boilerplate)
+[![ZomatoAPI](https://img.shields.io/badge/-Restaurant%20Finder%20Zomato%20API-333333?style=flat&logo=javascript)](https://github.com/thasneemmanaf/zomato-api-project)
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary%20CDN%20Setup-333333?style=flat&logo=icloud)](https://github.com/thasneemmanaf/Cloudinary-ReactJS)
 
 ### ⚙️ &nbsp;GitHub Analytics
